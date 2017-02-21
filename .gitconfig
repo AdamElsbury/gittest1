@@ -1,0 +1,13 @@
+[user]
+	name = Your github user name AdamElsbury\n\ngit config --global user.email 3elsba91@solent.ac.uk
+    email = 3elsba91@solent.ac.uk
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
